@@ -9,6 +9,6 @@ An app for gen Z binge-watcher, who want to reduce binge-watching habit periodic
 ### 📅 Timeline: 18 April - 23 May 2022
 ### 🎯 App brief: `an app that helps you to monitor your watching time`
 ### 🔦 Role: Front-end
-### 🚉 Platform: iOS
+### 🚉 Platform: iOS, watchOS
 ### 🔧 Tech stack: UIKit, WatchKit
 ### 🔗 [Link to repository](https://github.com/ayumutiarad/WatchBuddy)
