@@ -12,7 +12,7 @@ A WatchOS app that can provide `control assistance` to help Indonesian college s
 ### 🎯 App brief: `an app that provides control assistance from a wearable device to help you practice your presentation delivery by using SpeakZam app.`
 ### 🔦 Role: Coder
 ### 🚉 Platform: watchOS
-### 🔧 Tech stack: SwiftUI
+### 🔧 Tech stack: SwiftUI, WatchKit, WatchConnectivity
 ### 🔗 [Link to repository](https://github.com/MeeguTech/speak-zam)
 
 </br>
