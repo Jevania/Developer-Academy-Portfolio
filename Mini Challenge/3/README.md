@@ -1,4 +1,4 @@
-# SpeakZam
+# SpeakZam V2
 
 ## Overview🏝 
 An iOS app that can `provide feedback` to help Indonesian college students `improve` their `public speaking` delivery skills using Speech Framework.
