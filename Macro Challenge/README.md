@@ -1,4 +1,4 @@
-# SpeakZam
+# Tasco
 
 ## Overview🏝 
 An iOS app that helps `married couple` who want to `efficiently` in coordinating by making a `sharable schedule`.
